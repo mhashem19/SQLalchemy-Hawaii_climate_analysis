@@ -1,4 +1,4 @@
-# sqlalchemy-challenge
+# sqlalchemy-Hawaii-climate-analysis
 
 To help with your trip planning to Hawaii, you need to do some climate analysis on the area. Python and SQLAlchemy used to do basic climate analysis and data exploration of the climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 Precipitation Analysis
